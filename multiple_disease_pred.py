@@ -80,8 +80,8 @@ st.markdown("""
 @st.cache_resource
 def load_models():
     try:
-        diabetes_model = pickle.load(open("saved_models\diabetes_model.sav", 'rb'))
-        heart_model = pickle.load(open('saved_models\heart_model.sav', 'rb'))
+        diabetes_model = pickle.load(open("saved_models/diabetes_model.sav", 'rb'))
+        heart_model = pickle.load(open('saved_models/heart_model.sav', 'rb'))
         return diabetes_model, heart_model
     except FileNotFoundError:
         st.error("Model files not found. Please check the file paths.")
