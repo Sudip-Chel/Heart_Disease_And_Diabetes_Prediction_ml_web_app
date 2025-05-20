@@ -3,7 +3,6 @@
 ![Project Banner](https://img.shields.io/badge/Machine%20Learning-Heart%20%26%20Diabetes%20Risk-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 📌 Overview
 
